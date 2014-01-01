@@ -82,6 +82,7 @@ begin
   Bar_B:=StrToInt(Baris_B.Text);
   Kol_A:=StrToInt(Kolom_A.Text);
   Kol_B:=StrToInt(Kolom_B.Text);
+  
   case pilihan of
   0:begin
      if((Bar_A=Bar_B) and (Kol_A=Kol_B)) then
