@@ -1,6 +1,7 @@
 ﻿/// Copyright 2009. Agus Kurniawan
 /// Contact: agusk2007@gmail.com
 /// http://www.aguskurniawan.net
+/// http://blog.aguskurniawan.net
 /// http://geeks.netindonesia.net/blogs/agus 
 
 using System;
