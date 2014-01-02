@@ -160,4 +160,5 @@ begin
       Kolom_B.Text:='';
 end;
 
+
 end.
